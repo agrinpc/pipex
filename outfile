@@ -1,0 +1,24 @@
+total 664
+-rw-r--r--    1 miahmadi  2021_heilbronn      7 Oct 15 01:46  
+drwxr-xr-x   23 miahmadi  2021_heilbronn    782 Oct 20 21:59 .
+drwxr-xr-x    3 miahmadi  2021_heilbronn    102 Sep  6 13:43 ..
+drwxr-xr-x    9 miahmadi  2021_heilbronn    306 Sep  6 13:43 .git
+drwxr-xr-x    4 miahmadi  2021_heilbronn    136 Oct 15 00:28 .vscode
+-rw-r--r--    1 miahmadi  2021_heilbronn   1966 Oct 17 00:43 Makefile
+-rw-r--r--    1 miahmadi  2021_heilbronn   5187 Oct 20 21:57 bonus.c
+-rw-r--r--    1 miahmadi  2021_heilbronn   5788 Oct 20 21:57 bonus.o
+-rw-r--r--    1 miahmadi  2021_heilbronn      0 Oct 20 21:20 i
+-rw-r--r--    1 miahmadi  2021_heilbronn      0 Oct 20 21:59 infile
+drwxr-xr-x  106 miahmadi  2021_heilbronn   3604 Oct 17 01:18 libft
+-rwxr-xr-x    1 miahmadi  2021_heilbronn  52136 Oct 15 00:41 main
+-rw-r--r--    1 miahmadi  2021_heilbronn   3125 Oct 20 19:32 main.c
+drwxr-xr-x    3 miahmadi  2021_heilbronn    102 Oct 15 00:33 main.dSYM
+-rw-r--r--    1 miahmadi  2021_heilbronn   3680 Oct 20 19:36 main.o
+-rw-r--r--    1 miahmadi  2021_heilbronn      0 Oct 20 21:20 out
+-rw-r--r--    1 miahmadi  2021_heilbronn      0 Oct 20 22:00 outfile
+-rwxr-xr-x    1 miahmadi  2021_heilbronn  50840 Oct 20 21:05 pipex
+-rw-r--r--    1 miahmadi  2021_heilbronn  68080 Oct 20 21:05 pipex.a
+-rw-r--r--    1 miahmadi  2021_heilbronn    155 Oct 20 19:24 pipex.h
+-rwxr-xr-x    1 miahmadi  2021_heilbronn  51016 Oct 20 21:57 pipex_a
+-rw-r--r--    1 miahmadi  2021_heilbronn  70248 Oct 20 21:57 pipex_a.a
+drwxr-xr-x   14 miahmadi  2021_heilbronn    476 Oct 20 19:36 tester
